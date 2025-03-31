@@ -1,6 +1,6 @@
-# EdgeAIHub 插件开发SDK
+# EdgePlugHub 插件开发SDK
 
-EdgeAIHub SDK提供开发边缘AI插件的标准接口和工具。
+EdgePlugHub SDK提供开发边缘AI插件的标准接口和工具。
 
 ![SDK概述](docs/images/sdk_overview.png)
 
@@ -11,7 +11,7 @@ EdgeAIHub SDK提供开发边缘AI插件的标准接口和工具。
 pip install edgeplughub-sdk
 
 # 从源码安装
-git clone https://github.com/edgeaihub/edgeplughub-sdk.git
+git clone https://github.com/EdgeAIHub2024/edgeplughub-sdk.git
 cd edgeplughub-sdk
 pip install -e .
 ```
